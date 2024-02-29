@@ -12,4 +12,5 @@
     Users can customize the length and character types of the generated password based on their preferences.
     The generated password is displayed in the input field for the user to copy and use. -->
 
+https://supermvs1991.github.io/MVS-Challenge3/
 
